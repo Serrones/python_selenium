@@ -1,2 +1,5 @@
 # geckodriver
 geckodriver.log
+
+# python
+__pycache__/
